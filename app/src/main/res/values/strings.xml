@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coversor de km</string>
+    <string name="txv_resultado_centimetros_text">Valor em centimetros \n%s</string>
+    <string name="txv_resultado_metros_text">O valor em metros \n%s</string>
+    <string name="txv_apresentacao_text">Coversor de Km</string>
+    <string name="imv_splash_content_description_text">Desenhos de reguas dentro um quadro branco.</string>
+</resources>
